@@ -1,0 +1,26 @@
+#map-pane {
+  position: absolute;
+  width: calc(100vw - 560px);
+  height: 100vh;
+}
+
+#visualisation-pane {
+  width: 560px;
+  height: 100vh;
+  overflow: auto;
+  position: absolute;
+  right: 0;
+}
+
+#visualisation-pane-content {
+  margin: 20px;
+}
+
+.scatter-plot-chart {
+  padding-left: 40px;
+  padding-top: 10px;
+}
+
+.tooltip-paragraph + .tooltip-paragraph {
+  margin-top: 0.5rem;
+}

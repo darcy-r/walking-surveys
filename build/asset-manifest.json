@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/walking-surveys/static/css/main.a5c52c30.css",
+    "main.js": "/walking-surveys/static/js/main.232903a3.js",
+    "static/js/787.515b8423.chunk.js": "/walking-surveys/static/js/787.515b8423.chunk.js",
+    "index.html": "/walking-surveys/index.html",
+    "main.a5c52c30.css.map": "/walking-surveys/static/css/main.a5c52c30.css.map",
+    "main.232903a3.js.map": "/walking-surveys/static/js/main.232903a3.js.map",
+    "787.515b8423.chunk.js.map": "/walking-surveys/static/js/787.515b8423.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5c52c30.css",
+    "static/js/main.232903a3.js"
+  ]
+}
